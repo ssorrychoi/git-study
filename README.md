@@ -7,3 +7,8 @@ Git Study
 
 ## 참고 자료
 - [git flow] https://techblog.woowahan.com/2553/
+- [pull request] https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
+
+## 의견 제시 / 공부해볼 키워드
+- git flow 적용하기
+- 
